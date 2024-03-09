@@ -5,6 +5,4 @@
 1. Initialize the new project with React.js:
    `npx create-react-app rails-react-frontend-two-app-template`
 
-2.
-
-3. 
+It will be updated during next milestone!
